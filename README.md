@@ -11,6 +11,6 @@ Data Security & Compliance: Ensure regulatory compliance and protect sensitive i
 
 This project follows ER modeling, relational schema design, SQL queries, normalization techniques, and concurrency control mechanisms for efficient database management. It is implemented using MySQL, Python (Tkinter for UI), and SQL-based transaction handling.
 
-Developed as part of the DBMS course project at SRM Institute of Science and Technology, specifically for Shivalaya Motors - Authorized TVS Dealer.
+Developed as part of the DBMS course project at SRM Institute of Science and Technology, specifically for Shivalaya Motors - An Authorized TVS Dealer.
 
 
